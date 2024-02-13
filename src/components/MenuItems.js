@@ -9,7 +9,7 @@ const MenuItems = (props) => {
                      <div className='item1 col-sm-12 col-md-6 col-lg-6 col-xl-4 g-3' key={id}>
                         <div className="card mb-3 card-group">
                             <div className="row">
-                                <div className="col-md-4 w-100">
+                                <div className="col-md-4">
                                     <img
                                         src={image}
                                         className="img-fluid rounded-start object-fit-cover h-100"
